@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.env
+venv/
+# Ignore fine-tuning artifacts and chainlit
+.chainlit/
+checkpoints/
+data2/
+finetuned_arctic_ft/
+=0.26.0
+chainlit.md
+finetuned_caregiver_ft/model.safetensors

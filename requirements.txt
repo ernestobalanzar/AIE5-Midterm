@@ -1,0 +1,22 @@
+langchain
+langchain_openai
+langchain_huggingface
+langchain_core
+langchain_community
+langchain-text-splitters
+faiss-cpu
+python-pptx==1.0.2
+nltk==3.9.1
+pymupdf==1.25.2  # Use the later version
+beautifulsoup4
+lxml
+pypdf
+wandb
+accelerate>=0.26.0
+langgraph
+arxiv
+langchain-qdrant==0.2.0
+tiktoken
+xmltodict
+ragas==0.2.10
+rapidfuzz
